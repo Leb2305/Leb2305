@@ -2,7 +2,6 @@
 
 <p align="center">
   🎓 3rd Year BSc (Hons) Software Development with Cyber Security <br/>
-  💻 Building things with code · Breaking things for security · Learning every day
 </p>
 
 <p align="center">
@@ -18,9 +17,9 @@
 
 ## 🙋 About Me
 
-I'm a third-year Software Development with Cyber Security student, passionate about writing clean code and understanding how systems can be secured from the ground up. I enjoy working across the full stack and exploring the intersection of software engineering and security.
+I'm a third-year Software Development with Cyber Security student, passionate about writing clean code. I enjoy working across the full stack and exploring the intersection of software engineering and security.
 
-- 🔐 Interested in **cyber security**, **secure software design**, and **ethical hacking**
+- 🔐 Interested in **Software Engineering** & **Cyber Security**
 - 🌱 Always learning — currently deepening my knowledge in **networking** and **secure coding practices**
 - 🤝 Open to **collaborating** on interesting projects and **internship opportunities**
 
@@ -44,7 +43,7 @@ I'm a third-year Software Development with Cyber Security student, passionate ab
 
 - 📚 Complete my Honours degree in Software Development with Cyber Security
 - 🔧 Build and contribute to projects that help improve my ability as a programmer
-- 🏆 Grow my practical experience through personal projects and open source contributions
+- 🏆 Grow my practical experience through personal projects
 
 ---
 
@@ -52,7 +51,6 @@ I'm a third-year Software Development with Cyber Security student, passionate ab
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Leb2305&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leb2305&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
 </p>
 
 ---
